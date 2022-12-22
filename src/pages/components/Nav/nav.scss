@@ -6,7 +6,9 @@ $box:0px 43px 362px rgba(0, 0, 0, 0.09), 0px 5.38427px 44.7779px rgba(0, 0, 0, 0
   display: flex;
   flex-direction: column;
   align-items: center;
+  
   .avatar-container{
+    border:5px solid #ccc;
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -25,7 +27,7 @@ $box:0px 43px 362px rgba(0, 0, 0, 0.09), 0px 5.38427px 44.7779px rgba(0, 0, 0, 0
      flex-grow: 1;
       // background-color: blue;
       width: 100%;
-      padding-top: 60px;
+      padding-top: 40px;
       display: flex;
       justify-content: flex-start;
       position: relative;
@@ -33,20 +35,24 @@ $box:0px 43px 362px rgba(0, 0, 0, 0.09), 0px 5.38427px 44.7779px rgba(0, 0, 0, 0
       .nav-item{
         width: 80%;
         background-color: #f1f1f1;
-        border-top-left-radius: 5px;
-        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
         height: 45px;
         display: flex;
-
+        margin-top:15px;
         align-items: center;
         justify-content: center;
         font-family: 'roboto';
+        text-decoration: none;
+        color: black;
         cursor: pointer;
+        text-transform: uppercase;
         
       }
       .nav-item:hover{
         background-color: rgba(173, 169, 169, 0.725);
         box-shadow: $box;
+        margin-left: 15px;
       }
     }
   }
