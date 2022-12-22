@@ -1,5 +1,52 @@
+$box:0px 43px 362px rgba(0, 0, 0, 0.09), 0px 5.38427px 44.7779px rgba(0, 0, 0, 0.045);
 .container-nav{
-  width: 230px;
+  width: 300px;
   height: 100vh;
   background-color: rgb(145, 98, 45);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .avatar-container{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    align-items: center;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    img{
+      width: 100%;
+      height: 100%;
+    }
+  }
+  .nav-item-container{
+     flex-grow: 1;
+      // background-color: blue;
+      width: 100%;
+      padding-top: 60px;
+      display: flex;
+      justify-content: flex-start;
+      position: relative;
+      flex-direction: column;
+      .nav-item{
+        width: 80%;
+        background-color: #f1f1f1;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        height: 45px;
+        display: flex;
+
+        align-items: center;
+        justify-content: center;
+        font-family: 'roboto';
+        cursor: pointer;
+        
+      }
+      .nav-item:hover{
+        background-color: rgba(173, 169, 169, 0.725);
+        box-shadow: $box;
+      }
+    }
   }
