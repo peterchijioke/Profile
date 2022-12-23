@@ -26,7 +26,10 @@ export default function About() {
               </div>
             </a>
             {/* github */}
-            <a href="https://github.com/peterchijioke" className="github">
+            <a
+              href="https://www.linkedin.com/in/chijioke-peter/"
+              className="github"
+            >
               <div style={{ marginLeft: 20 }} className="round-github">
                 <img src={linkedin} style={{ width: 30, height: 30 }} />
               </div>
