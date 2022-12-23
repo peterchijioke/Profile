@@ -2,6 +2,10 @@ import React from "react";
 import Layout from "../components/Layout/Layout";
 import Wrapper from "../components/Wrapper/Wrapper";
 import "./about.scss";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faGift } from "@fortawesome/free-solid-svg-icons";
+import githusvg from "../../image/github.svg";
+import linkedin from "../../image/linkedin.svg";
 
 export default function About() {
   return (
@@ -15,6 +19,20 @@ export default function About() {
           >
             chukwu.chijioke.peter@gmail.com
           </a>
+          <div className="social">
+            <a href="https://github.com/peterchijioke" className="github">
+              <div className="round-github">
+                <img src={githusvg} style={{ width: 30, height: 30 }} />
+              </div>
+            </a>
+            {/* github */}
+            <a href="https://github.com/peterchijioke" className="github">
+              <div style={{ marginLeft: 20 }} className="round-github">
+                <img src={linkedin} style={{ width: 30, height: 30 }} />
+              </div>
+            </a>
+            {/* linkedin */}
+          </div>
           <span className="body-text">
             I am a Computer Scientist, a passionate software engineer with
             demonstrated skills and experience and a researcher. I am currently

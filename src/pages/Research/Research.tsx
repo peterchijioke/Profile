@@ -8,7 +8,7 @@ export default function Research() {
     <Layout>
       <Wrapper>
         <div className="research">
-          <h2>Under Construction</h2>
+          <h2>UNDER CONSTRUCTION</h2>
         </div>
       </Wrapper>
     </Layout>
