@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/profile/public/static/css/main.e2d1c32e.css",
+    "main.js": "/profile/public/static/js/main.f37fa532.js",
+    "static/js/787.4c596a1e.chunk.js": "/profile/public/static/js/787.4c596a1e.chunk.js",
+    "static/media/foodslop-web.png": "/profile/public/static/media/foodslop-web.536a6af9064e08275a2e.png",
+    "static/media/one1.png": "/profile/public/static/media/one1.9992ec12c0193fd26dd9.png",
+    "static/media/JCCI1.png": "/profile/public/static/media/JCCI1.4de5b3ee89f3048c421f.png",
+    "static/media/profile.jpg": "/profile/public/static/media/profile.10f5a104d504ca8196a0.jpg",
+    "static/media/foodslop1.jpg": "/profile/public/static/media/foodslop1.c52ac5a3ca5855d11af0.jpg",
+    "static/media/JCCI2.png": "/profile/public/static/media/JCCI2.87537334b45fb16bdb99.png",
+    "index.html": "/profile/public/index.html",
+    "main.e2d1c32e.css.map": "/profile/public/static/css/main.e2d1c32e.css.map",
+    "main.f37fa532.js.map": "/profile/public/static/js/main.f37fa532.js.map",
+    "787.4c596a1e.chunk.js.map": "/profile/public/static/js/787.4c596a1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d1c32e.css",
+    "static/js/main.f37fa532.js"
+  ]
+}

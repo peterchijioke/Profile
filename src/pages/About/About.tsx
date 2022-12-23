@@ -38,9 +38,10 @@ export default function About() {
           </div>
           <span className="body-text">
             I am a Computer Scientist, a passionate software engineer with
-            demonstrated skills and experience and a researcher. I am currently
-            a senior software engineer and project manager at Jatado Tech. My
-            research interests span across software engineering.
+            demonstrated skills and experience. I am currently a senior software
+            engineer and project manager at Jatado Tech Limited. It is nice to
+            note that I am also researcher; My research interests span across
+            software engineering.
           </span>
           <span className="title-text">The technologies I use include :</span>
           <div className="list-container">
