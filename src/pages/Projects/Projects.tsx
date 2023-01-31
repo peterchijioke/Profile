@@ -98,7 +98,7 @@ export default function Projects() {
             <span>
               This platform has given you the opportunity to meet with dealers
               of all kinds of cars, trucks, SUVS, etc, and then get the best
-              repair services. Here Mechanics offer a full range of mechanical
+              repair services.
             </span>
             <a href="https://staging.quickmechs.com" className="download-link">
               View on web
