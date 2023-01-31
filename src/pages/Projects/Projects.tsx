@@ -18,8 +18,8 @@ export default function Projects() {
           <div className="featured-text">
             <span className="title">Foodslope (Mobile)</span>
             <span>
-              foodslop helps you share and discover food recipes. To do that, we
-              let our users create and share exciting food recipes along with
+              foodslope helps you share and discover food recipes. To do that,
+              we let our users create and share exciting food recipes along with
               pictures of the amazing meals you prepare. As part of our
               services, we try to ensure that the content you see is relevant
               and interesting to you. You may occasionally see some content that
