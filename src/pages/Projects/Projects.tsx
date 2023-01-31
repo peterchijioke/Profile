@@ -16,7 +16,7 @@ export default function Projects() {
         <div className="image-contex">
           <img className="feature-image" src={Image} />
           <div className="featured-text">
-            <span className="title">Foodslop (Mobile)</span>
+            <span className="title">Foodslope (Mobile)</span>
             <span>
               foodslop helps you share and discover food recipes. To do that, we
               let our users create and share exciting food recipes along with
@@ -68,7 +68,7 @@ export default function Projects() {
             src={foodslopweb}
           />
           <div className="featured-text">
-            <span className="title">Foodslop (Web)</span>
+            <span className="title">Foodslope (Web)</span>
             <span>
               foodslop helps you share and discover food recipes. To do that, we
               let our users create and share exciting food recipes along with
@@ -94,16 +94,13 @@ export default function Projects() {
             src={oneAuto}
           />
           <div className="featured-text">
-            <span className="title">One Automech (Web)</span>
+            <span className="title">Quickmechs (Web)</span>
             <span>
               This platform has given you the opportunity to meet with dealers
               of all kinds of cars, trucks, SUVS, etc, and then get the best
               repair services. Here Mechanics offer a full range of mechanical
             </span>
-            <a
-              href="https://1automech.com/home/mechanic-and-services/"
-              className="download-link"
-            >
+            <a href="https://staging.quickmechs.com" className="download-link">
               View on web
             </a>
           </div>
