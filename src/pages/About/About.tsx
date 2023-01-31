@@ -46,10 +46,10 @@ export default function About() {
           <span className="title-text">The technologies I use include :</span>
           <div className="list-container">
             <ul>
-              <li>TypeScript & JavaScript</li>
+              <li>TypeScript & JavaScript (AndonisJS)</li>
               <li>ReactJs & react-native</li>
-              <li>Python Flask</li>
-              <li>php Laravel </li>
+              <li>Python (Flask)</li>
+              <li>php (Laravel) </li>
               <li>Jetpack compose & kotlin </li>
               <li>Google Go</li>
               <li>Relational & Graph Databases (MYSQL & Neo4j)</li>
