@@ -15,7 +15,7 @@ export default function Education() {
             <span className="school-subtitle">MSC in computer science</span>
           </div>
           <div className="title-wrap-two">
-            <h5>Sept 2020 - current</h5>
+            <h5>Sept 2021 - current</h5>
           </div>
         </div>
         <div className="thesis-wrapper">

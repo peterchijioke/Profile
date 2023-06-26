@@ -19,7 +19,7 @@ export default function Nav() {
         <Link className="nav-item" to={"/projects"}>
           Projects
         </Link>
-        <Link className="nav-item" to={"/research"}>
+        <Link className="nav-item" to={""}>
           Research
         </Link>
       </div>

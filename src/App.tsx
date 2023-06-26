@@ -1,14 +1,14 @@
 import React, { Fragment } from "react";
-import Main from "./routes/Main";
+import Routes from "./routes/Main";
 import "./App.scss";
-import Nav from "./pages/components/Nav/Nav";
+import Navigations from "./pages/components/Nav/Nav";
 
 export default function App() {
   return (
     <Fragment>
       <div className="container">
-        <Nav />
-        <Main />
+        <Navigations />
+        <Routes />
       </div>
     </Fragment>
   );
