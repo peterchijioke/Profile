@@ -10,6 +10,9 @@ export default function App() {
         <Navigations />
         <Routes />
       </div>
+      <div className="app-footer">
+        &#169; {new Date().getFullYear()} chukwu chijioke peter
+      </div>
     </Fragment>
   );
 }
