@@ -51,9 +51,9 @@ export default function About() {
           <span className="title-text">The technologies I use include :</span>
           <div className="list-container">
             <ul>
-              <li>TypeScript & JavaScript (AndonisJS)</li>
+              <li>TypeScript & JavaScript (NestJS, ExpressJS)</li>
               <li>ReactJs & react-native</li>
-              <li>Python (Flask)</li>
+              <li>Python (Django)</li>
               <li>php (Laravel) </li>
               <li>Jetpack compose & kotlin </li>
               <li>Google Go</li>
