@@ -37,11 +37,16 @@ export default function About() {
             {/* linkedin */}
           </div>
           <span className="body-text">
-            I am a Computer Scientist, a passionate software engineer with
-            demonstrated skills and experience. I am currently a senior software
-            engineer and project manager at Jatado Tech Limited. It is nice to
-            note that I am also researcher; My research interests span across
-            software engineering.
+            Experienced Senior Software Engineer with a passion for creating
+            innovative solutions in the field of computer science. Proficient in
+            a wide range of technologies and languages, including TypeScript,
+            JavaScript, React Native, PHP Laravel, Django, NodeJS, NestJS, Rest
+            API, Graph Database, MySQL, Docker, AWS, ReactJS, Golang Gin, and
+            Neo4j Graph DB. Skilled in utilizing design tools such as Figma for
+            low and high-fidelity prototyping, Photoshop for graphic design, and
+            Microsoft Visio for UML and low-fidelity designs. Committed to
+            delivering high-quality software solutions and constantly expanding
+            knowledge in the ever-evolving tech landscape.
           </span>
           <span className="title-text">The technologies I use include :</span>
           <div className="list-container">
