@@ -4,8 +4,9 @@ $family: 'roboto';
   height: 100%;
   background-color: white;
   display: flex;
-  flex-direction: column;
+  // flex-direction: column;
   overflow: scroll;
+  justify-content: center;
   color:  #6c757d;
   font-family: $family;
   position: relative;
@@ -13,5 +14,6 @@ $family: 'roboto';
 
 .children-wrapper{
   height: 100%;
-  width: 100%;
+
+  width: 95%;
 }
