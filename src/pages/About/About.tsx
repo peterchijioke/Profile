@@ -37,16 +37,16 @@ export default function About() {
             {/* linkedin */}
           </div>
           <span className="body-text">
-            Experienced Senior Software Engineer with a passion for creating
-            innovative solutions in the field of computer science. Proficient in
-            a wide range of technologies and languages, including TypeScript,
-            JavaScript, React Native, PHP Laravel, Django, NodeJS, NestJS, Rest
-            API, Graph Database, MySQL, Docker, AWS, ReactJS, Golang Gin, and
-            Neo4j Graph DB. Skilled in utilizing design tools such as Figma for
-            low and high-fidelity prototyping, Photoshop for graphic design, and
-            Microsoft Visio for UML and low-fidelity designs. Committed to
-            delivering high-quality software solutions and constantly expanding
-            knowledge in the ever-evolving tech landscape.
+            Chukwu Chijioke Peter is a dynamic Software Engineer with expertise
+            spanning both backend and frontend development. Armed with a
+            Bachelor's degree in Computer Science and extensive experience,
+            Chijioke has showcased proficiency in technologies such as NodeJS,
+            React, React Native, MySQL, and MongoDB. His passion for innovation
+            is evident through his contributions to various projects, from
+            crafting multi-tenant support systems to developing real estate
+            mobile applications. With a track record of delivering exceptional
+            software solutions, Chijioke is adept at driving projects forward
+            with agility and creativity.
           </span>
           <span className="title-text">The technologies I use include :</span>
           <div className="list-container">
@@ -54,10 +54,10 @@ export default function About() {
               <li>TypeScript & JavaScript (NestJS, ExpressJS)</li>
               <li>ReactJs & react-native</li>
               <li>Python (Django)</li>
-              <li>php (Laravel) </li>
-              <li>Jetpack compose & kotlin </li>
               <li>Google Go</li>
-              <li>Relational & Graph Databases (MYSQL & Neo4j)</li>
+              <li>
+                Relational & Graph Databases (MYSQL,Postgress, MongoDB & Neo4j)
+              </li>
             </ul>
           </div>
           <span className="title-text">The design tool I use includes:</span>

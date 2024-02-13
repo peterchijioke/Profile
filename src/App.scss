@@ -26,6 +26,7 @@ position: fixed;
   display: none;
   
 }
+
 @media screen and (max-width:1000px) {
   .app-footer {
     
@@ -44,10 +45,10 @@ position: fixed;
   .drop-down-card{
     height: 800px;
     width: 100%;
-    display: flex;
-    position: absolute;
+    // display: flex;
+    // position: absolute;
     background-color: aqua;
-   top: 20;
+  //  top: 20;
   }
   
 }
