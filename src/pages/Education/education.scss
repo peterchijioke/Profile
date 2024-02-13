@@ -1,53 +1,54 @@
-$box:0px 43px 362px rgba(0, 0, 0, 0.09), 0px 5.38427px 44.7779px rgba(0, 0, 0, 0.045);
-$bg:rgb(145, 98, 45);
-.education-container{
+$box:
+  0px 43px 362px rgba(0, 0, 0, 0.09),
+  0px 5.38427px 44.7779px rgba(0, 0, 0, 0.045);
+$bg: rgb(145, 98, 45);
+.education-container {
   width: 90%;
   height: 100%;
   // background-color: aqua;
   align-self: center;
-  margin-top: 100px;
+  margin-top: 20px;
   display: flex;
   flex-direction: column;
- 
-  .wrapper-school{
+
+  .wrapper-school {
     display: flex;
     flex-direction: row;
     // margin-top: 20px;
-    .title-wrap-one{
+    .title-wrap-one {
       display: flex;
       flex-direction: column;
       flex-grow: 1;
-       .school-title{
-    font-weight: 700;
-    line-height: 1.2;
-    color: #343a40;
-    font-size: 1.5rem;
-    margin-bottom: 0 !important;
-    text-transform: uppercase;
-  }
-  .school-subtitle{
-text-transform: uppercase;
-font-weight: 700;
-font-size: 1.5rem;
-    line-height: 1.2;
-  }
+      .school-title {
+        font-weight: 700;
+        line-height: 1.2;
+        color: #343a40;
+        font-size: 1.5rem;
+        margin-bottom: 0 !important;
+        text-transform: uppercase;
+      }
+      .school-subtitle {
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 1.5rem;
+        line-height: 1.2;
+      }
     }
-    .title-wrap-two{
+    .title-wrap-two {
       display: flex;
       flex-direction: column;
-      h5{
+      h5 {
         color: $bg;
       }
     }
   }
-  .thesis-wrapper{
+  .thesis-wrapper {
     font-size: medium;
     margin-top: 1rem;
-    
-    a{
+
+    a {
       color: $bg;
       text-transform: capitalize;
     }
   }
- 
 }

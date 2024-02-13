@@ -7,7 +7,7 @@ export default function Education() {
   return (
     <Layout>
       <Wrapper className="education-container">
-        <div className="wrapper-school">
+        {/* <div className="wrapper-school">
           <div className="title-wrap-one">
             <h3 className="school-title">
               Federal University Of technology, Owerri
@@ -31,7 +31,7 @@ export default function Education() {
             Dr. C.N. Njoku & Dr. C.D Ayiam
           </a>
         </div>
-        {/* Msc */}
+        Msc */}
         <div style={{ marginTop: 30 }} className="wrapper-school">
           <div className="title-wrap-one">
             <h3 className="school-title">
